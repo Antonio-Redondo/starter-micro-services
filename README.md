@@ -14,7 +14,7 @@ You need to have installed java 1.8 and Gradle
 4.- run reservation-business-service --> bootRun  --> it will be started on port 8500 <br />
 5.- run reservation-server --> bootRun  --> it will be started on port 8103 <br />
 6.- run reservation-web --> bootRun  --> it will be started on port 8600 <br />
-6.- run room-service --> bootRun  --> it will be started on port 8101 <br />
+7.- run room-service --> bootRun  --> it will be started on port 8101 <br />
 
 Then type in your browser http://localhost:8600/reservations
 
