@@ -30,6 +30,8 @@ Then type in your browser http://localhost:8600/reservations
 
 -Spring MVC
 
+-Service registry by Eureka Netflix
+
 -H2 database (Database in memory)
 
 
